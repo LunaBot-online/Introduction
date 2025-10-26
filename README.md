@@ -7,4 +7,4 @@ LunaBot is an upcoming go-to all-in-one server management utility Discord bot wi
 
 <img width="638" height="353" alt="LunaBot-No-Background" src="https://github.com/user-attachments/assets/059b2660-5f92-45e6-bbea-8065b3f9a59e" />
 <img width="745" height="155" alt="Moderation" src="https://github.com/user-attachments/assets/b356ae95-95eb-474f-8312-491f0a14fb04" />
-<img width="2560" height="1440" alt="image2" src="https://github.com/user-attachments/assets/da7c5288-c13b-4241-a858-538bcd2c934a" />
+<img width="688" height="389" alt="image" src="https://github.com/user-attachments/assets/6afdd5ce-3bdd-4da7-938e-250cf6032039" />
