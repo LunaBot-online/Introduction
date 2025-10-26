@@ -2,7 +2,7 @@
 
 ## Welcome to LunaBot!
 
-LunaBot is an upcoming go-to all-in-one server management utility Discord bot with numerous features to make life, server management, and community moderation that little bit easier to save your time so you can focus on the fun of Discord!
+**LunaBot is an upcoming go-to all-in-one server management utility Discord bot with numerous features to make life, server management, and community moderation that little bit easier to save your time so you can focus on the fun of Discord!**
 <img width="2500" height="10" alt="Photos_2DxFHGYHJk" src="https://github.com/user-attachments/assets/3943d559-fcee-4537-bb39-3f523d9f4beb" />
 <img width="2500" height="10" alt="Photos_2DxFHGYHJk" src="https://github.com/user-attachments/assets/3943d559-fcee-4537-bb39-3f523d9f4beb" />
 
