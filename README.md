@@ -46,4 +46,4 @@ A massive thanks to those that have assisted and continue to assist and support 
 - `MrTrappy`
 - `aburger765`
 
-**Management `//` Community Management**
+**Management `/` Community Management**
