@@ -42,6 +42,4 @@
 A massive thanks to those that have assisted and continue to assist and support the development of LunaBot, we seriously couldn't thank you enough, I know this term is overused but seriously LunaBot **would not exist without you guys.**
 
 **Developers:**
-@MrTrappy
-kl
-kl
+- `MrTrappy`
