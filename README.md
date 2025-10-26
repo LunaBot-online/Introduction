@@ -40,4 +40,4 @@
 <img width="1237" height="126" alt="LunaBotOfficials" src="https://github.com/user-attachments/assets/f3446f7d-905f-40da-a15c-f2aa2e56dd8e" />
 
 # Thank you.
-Just want to say a massive thanks to those that have previously and continue to contribute and support the development of LunaBot, we seriously couldn't thank you enough, I know this term is overused but seriously LunaBot **would not exist without you guys.**
+Just want to say a massive thanks to those that have previously and continue to contribute and support the development of LunaBot, we seriously couldn't thank you enough, I know this term is overused but seriously ***LunaBot would not exist without you guys.***
