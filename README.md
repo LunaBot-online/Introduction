@@ -36,10 +36,7 @@
 <img width="2500" height="10" alt="Photos_2DxFHGYHJk" src="https://github.com/user-attachments/assets/3943d559-fcee-4537-bb39-3f523d9f4beb" />
 <img width="2500" height="10" alt="Photos_2DxFHGYHJk" src="https://github.com/user-attachments/assets/3943d559-fcee-4537-bb39-3f523d9f4beb" />
 
-
-
-<img width="1237" height="126" alt="LunaBotOfficials" src="https://github.com/user-attachments/assets/ab224209-7c6b-44ab-a158-7625fb2fb1c6" />
-
+<img width="1255" height="180" alt="Commands" src="https://github.com/user-attachments/assets/16c8bf7e-111d-4406-b309-2a08ae5a6bf1" />
 
 
 s
