@@ -26,9 +26,6 @@
 
 <img width="719" height="347" alt="Setup" src="https://github.com/user-attachments/assets/816f3aa3-3cec-4e5c-8f44-ce04e9e4eb0c" />
 
-<img width="2500" height="10" alt="Photos_2DxFHGYHJk" src="https://github.com/user-attachments/assets/3943d559-fcee-4537-bb39-3f523d9f4beb" />
-<img width="2500" height="10" alt="Photos_2DxFHGYHJk" src="https://github.com/user-attachments/assets/3943d559-fcee-4537-bb39-3f523d9f4beb" />
-
 # Setup
 - ➜ Add LunaBot to your Discord server
 - ➜ Ensure LunaBot has the minimal required permissions for basic operation **(See that list below)**
