@@ -37,7 +37,7 @@
 <img width="2500" height="10" alt="Photos_2DxFHGYHJk" src="https://github.com/user-attachments/assets/3943d559-fcee-4537-bb39-3f523d9f4beb" />
 <img width="2500" height="10" alt="Photos_2DxFHGYHJk" src="https://github.com/user-attachments/assets/3943d559-fcee-4537-bb39-3f523d9f4beb" />
 
-<img width="1237" he<img width="688" height="389" alt="image" src="https://github.com/user-attachments/assets/ef215ea2-c619-402e-9eb4-f8f136a5989c" />
+<img width="750" height="430" alt="image" src="https://github.com/user-attachments/assets/ef215ea2-c619-402e-9eb4-f8f136a5989c" />
 
 # Thank you.
 Just want to say a massive thanks to those that have previously and continue to contribute and support the development of LunaBot, we seriously couldn't thank you enough, I know this term is overused but seriously ***LunaBot would not exist without you guys.***
