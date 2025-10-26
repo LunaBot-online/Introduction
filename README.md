@@ -31,7 +31,7 @@
 - ➜ Add LunaBot to your Discord server
 - ➜ Ensure LunaBot has the minimal required permissions for basic operation **(See that list below)**
 - ➜ Use /config to see a list of things to configure
-- ➜ Use the appropriate commands to set the individual modules **(Example: use /logchannel to setup the log channel)**
+- ➜ Use the appropriate commands to set the individual modules **(Example: seu /logchannel to setup the log channel)**
 - ➜ To reseet all configuration, use /resetconfig
 
 <img width="2500" height="10" alt="Photos_2DxFHGYHJk" src="https://github.com/user-attachments/assets/3943d559-fcee-4537-bb39-3f523d9f4beb" />
@@ -43,5 +43,8 @@
 Just want to say a massive thanks to those that have previously and continue to contribute and support the development of LunaBot, we seriously couldn't thank you enough, I know this term is overused but seriously ***LunaBot would not exist without you guys.***
 
 
+
 # Media
-<img width="462" height="205" alt="image (4)" src="https://github.com/user-attachments/assets/82603d1a-5e4b-43bf-9f16-6bf1523421c5" />
+<img width="462" height="205" alt="image (4)" src="https://github.com/user-attachments/assets/82603d1a-5e4b-43bf-9f16-6bf1523421c5" /><img width="470" height="315" alt="image (5)" src="https://github.com/user-attachments/assets/81bebe04-6e03-4086-9092-5d635ae75390" />
+
+
