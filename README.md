@@ -39,11 +39,9 @@
 <img width="1237" height="126" alt="LunaBotOfficials" src="https://github.com/user-attachments/assets/f3446f7d-905f-40da-a15c-f2aa2e56dd8e" />
 
 # LunaBot Officials
-A massive thanks to those that have assisted and continue to assist and support the development of LunaBot, we seriously couldn't thank you enough, I know this term is overused but seriously LunaBot **would not exist without you guys.**
+A massive thanks to those that have and continue to contribute and support the development of LunaBot, we seriously couldn't thank you enough, I know this term is overused but seriously LunaBot **would not exist without you guys.**
 
 **Developers:**
 - `mk_vr`
 - `MrTrappy`
 - `aburger765`
-
-**Management `/` Community Management**
