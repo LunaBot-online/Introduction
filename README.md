@@ -19,7 +19,8 @@
 - [**LunaBot Staff**](https://lunabot.online)
 - [**Invite LunaBot**](https://lunabot.online/invite)
 - [**Discord**](https://lunabot.online/support)
-- [**X (Formerly Twitter)**](https://x.com/@TeamLunaBot)
+- [**Socials**](https://lunabot.online/socials)
+- [**LunaBot Terms of Service**](https://lunabot.online/terms)
 
 
 <img width="2500" height="10" alt="Photos_2DxFHGYHJk" src="https://github.com/user-attachments/assets/3943d559-fcee-4537-bb39-3f523d9f4beb" />
